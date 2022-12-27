@@ -3,4 +3,23 @@
   <groupId>pt.rmoreira.emailmanager</groupId>
   <artifactId>EmailManager</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+ <dependencies>
+ 
+<dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>javax.mail-api</artifactId>
+    <version>1.5.5</version>
+</dependency>
+
+
+<dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.5.5</version>
+</dependency>
+ 
+ </dependencies>
+  
+ 
 </project>
